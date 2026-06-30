@@ -111,11 +111,18 @@ List<Tool> tools = [
     'https://usebottles.com',
   ),
   Tool(
-    'Wine',
-    'Run Microsoft Windows programs on Linux',
-    'WineHQ',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/WINE-logo.png/120px-WINE-logo.png',
-    'https://www.winehq.org/',
+    'CrossOver',
+    'Run Windows softwares. Wine's main contributor.',
+    'CodeWeavers',
+    'https://media.codeweavers.com/pub/crossover/website/images/CrossOver-logo-wht.png',
+    'https://www.codeweavers.com/',
+  ),
+  Tool(
+    'CrossOver',
+    'Run Windows softwares easier than Wine, by the company that mainly contributes to Wine.',
+    'CodeWeavers',
+    'https://media.codeweavers.com/pub/crossover/website/images/CrossOver-logo-wht.png',
+    'https://www.codeweavers.com/',
   ),
   Tool(
     'Lutris',
